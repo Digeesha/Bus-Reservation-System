@@ -3,50 +3,28 @@
 
 This is a basic Bus Reservation System that allows users to create, update, delete, and read bus reservations. The project uses Java Spring Boot for the backend, Angular for the frontend, and MySQL as the database.
 
-Table of Contents
-
-•	Features
-
-•	Technologies Used
-
-•	Getting Started
-
-o	Prerequisites
-
-o	Installation
-
-•	Usage
-
-•	Screenshots
-
-•	Contributing
-
-•	License
 
 Features
 
- • Create Reservation: Allows users to add new bus reservations, specifying details such as date, time, seat number, and passenger information.
+   • Create Reservation: Allows users to add new bus reservations, specifying details such as date, time, seat number, and passenger information.
 
-•  	Update Reservation: Modify existing reservations with updated information.
+   • Update Reservation: Modify existing reservations with updated information.
 
-•	Delete Reservation: Remove reservations from the system.
+  •	Delete Reservation: Remove reservations from the system.
 
-•	Read/View Reservations: View a list of all reservations, with search and filter capabilities.
+  •	Read/View Reservations: View a list of all reservations, with search and filter capabilities.
 
 Technologies Used
 
-•	Backend: Java, Spring Boot
+  •	Backend: Java, Spring Boot
 
-•	Frontend: Angular
+  •	Frontend: Angular
 
-•	Database: MySQL
-
-Getting Started
+  •	Database: MySQL
 
 
 
-
-Prerequisites
+Getting Started Prerequisites
 
 •	Java (JDK 11 or higher)
 
@@ -59,7 +37,8 @@ Prerequisites
 
 
 Installation
-1.	Clone the repository:
+
+o Clone the repository:
 bash
 Copy code
 
@@ -67,7 +46,7 @@ Copy code
   	          cd bus-reservation-system
 
 
-3.	Set up the backend:
+o	Set up the backend:
 o	Navigate to the backend folder:
 bash
 Copy code
@@ -90,7 +69,7 @@ Copy code
                              mvn spring-boot:run
 
 
-3.	Set up the frontend:
+o	Set up the frontend:
 o	Navigate to the frontend folder:
 bash
 Copy code

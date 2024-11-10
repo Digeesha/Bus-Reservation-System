@@ -79,11 +79,9 @@ o	Update application.properties with your MySQL database credentials:
 properties
 Copy code
 
-spring.datasource.url=jdbc:mysql://localhost:3306/bus_reservation
-
-spring.datasource.username=yourUsername
-
-spring.datasource.password=yourPassword
+                            spring.datasource.url=jdbc:mysql://localhost:3306/bus_reservation
+                            spring.datasource.username=yourUsername
+                            spring.datasource.password=yourPassword
 
 o	Run the Spring Boot application:
 bash

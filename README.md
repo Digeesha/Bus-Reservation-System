@@ -51,7 +51,7 @@ Files can be extracted in two ways.
    * Click on portal -> src/main/java -> .com.aniket.portal -> Right click on PortalApplication.java -> Run as Java Application (Or search for PortalApplication.java and run that as java application)
    * Application will be launched on localhost. [http://localhost:8080/home]
 2. Clone Git Repository
-   * Use URL - https://github.com/ani1100/busSeatAllocationSystem.git for cloning.
+   * Use URL - [https://github.com/ani1100/busSeatAllocationSystem.git](https://github.com/Digeesha/Bus-Reservation-System.git) for cloning.
    * Start Eclipse/Spring Boot by choosing a workplace. Go to GIT Perspective -> Clone a Git Repository -> Paste the URL for cloning -> Click on Next -> Click on Finish on next pop up. 
    * After this, a local git repository will be created. Right Click on busSeatAllocationSystem -> Select import projects -> Click on Finish. Project will be imported.
    * Go to Java Perspective , Click on portal -> src/main/java -> .com.aniket.portal -> Right click on PortalApplication.java -> Run as Java Application (Or search for PortalApplication.java and run that as java application)
